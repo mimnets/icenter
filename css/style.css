@@ -1,0 +1,25 @@
+.categories{
+}
+.container{
+    margin-bottom: 100px;
+}
+.gray-bg{
+    background-color:#f1bcb9;
+}
+.cat1, .cat2, .cat3, .cat4{
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.cat1{
+    background-color: hotpink;
+}
+.cat2{
+    background-color: blue;
+}
+.cat3{
+    background-color: plum;
+}
+.cat4{
+    background-color: mediumslateblue;
+}
