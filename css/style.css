@@ -34,3 +34,10 @@
     height: 500px;
     border-radius: 10px;
 }
+
+.carousel-inner img{
+    width: 50%;
+}
+.d-block{
+    margin-left: 25%;
+}
