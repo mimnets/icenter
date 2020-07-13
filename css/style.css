@@ -10,9 +10,10 @@
 .gray-bg{
     background-color:#f1bcb9;
 }
-.carousel{
-    height: 500px;
-}
+.carousel {
+        width:auto;
+        height:auto;
+    }
 .cat1, .cat2, .cat3{
     padding: 10px 20px;
     border-radius: 5px;
@@ -38,9 +39,9 @@
     border-radius: 10px;
 }
 
-.carousel-inner img{
-    width: 50%;
-}
+.w-100 {
+    width: 50% !important;
+  }
 .d-block{
     margin-left: 25%;
 }
