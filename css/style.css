@@ -10,6 +10,9 @@
 .gray-bg{
     background-color:#f1bcb9;
 }
+.carousel{
+    height: 500px;
+}
 .cat1, .cat2, .cat3{
     padding: 10px 20px;
     border-radius: 5px;
